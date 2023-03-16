@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cake TextViews -->
+    <item name="menu_item_1" type="id" />
+    <item name="menu_item_2" type="id" />
+    <item name="menu_item_3" type="id" />
+</resources>

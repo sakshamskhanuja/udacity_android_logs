@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="button_log">Print menu to logs</string>
+
+    <!-- Cakes -->
+    <string name="cake_mango">Mango sorbet</string>
+    <string name="cake_blueberry">Blueberry pie</string>
+    <string name="cake_chocolate">Chocolate lava cake</string>
+</resources>
